@@ -55,5 +55,15 @@
 			<version>7.8.0</version>
 			<scope>compile</scope>
 		</dependency>
+		<dependency>
+			<groupId>com.aventstack</groupId>
+			<artifactId>extentreports</artifactId>
+			<version>5.0.9</version>
+		</dependency>
+		<dependency>
+			<groupId>com.aventstack</groupId>
+			<artifactId>klov-reporter</artifactId>
+			<version>5.0.0</version>
+		</dependency>
 	</dependencies>
 </project>

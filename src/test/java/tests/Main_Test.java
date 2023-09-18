@@ -15,11 +15,12 @@ public class Main_Test extends Base_Page{
 		LandingPage lp = new LandingPage();
 		lp.flights();
 		Thread.sleep(3000);
-//		lp.busTickets();
-////		lp.tourPackages();
+		lp.busTickets();
+		
+//		lp.tourPackages();
 //		Thread.sleep(3000);
 //		lp.visitIndia();
 //		Thread.sleep(3000);
-//		lp.cruise();		
+		lp.cruise();		
 	}
 }
